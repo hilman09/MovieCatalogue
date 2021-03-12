@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArchitectureComponent</string>
+    <string name="detail_name">Detail Film</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="tvShows">Tv Shows</string>
+    <string name="deskription_film">Deskription Film</string>
+
+
+
+</resources>
